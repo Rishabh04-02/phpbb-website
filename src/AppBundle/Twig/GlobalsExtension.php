@@ -204,7 +204,7 @@ class GlobalsExtension extends \Twig_Extension implements \Twig_Extension_Global
 			'BUGS_PHPBB'			=> 'http://tracker.phpbb.com/',
 			'BUGS_WEBSITE'		=> '/bugs/website/',
 			'INCIDENTS'			=> '/incidents/',
-			'SECURITY'			=> 'https://tracker.phpbb.com/secure/BrowseProjects.jspa#10020',
+			'SECURITY'			=> 'https://tracker.phpbb.com/secure/BrowseProjects.jspa',
 			'SECURITY_MODS'		=> 'https://tracker.phpbb.com/browse/EXTSEC/',
 			'BUGS_30X'			=> 'http://tracker.phpbb.com/',
 			'BUGS_DOCS'			=> '/bugs/docs/',
